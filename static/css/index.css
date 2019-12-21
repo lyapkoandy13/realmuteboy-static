@@ -19,6 +19,8 @@ h1{
     color: white;
     font-size: 7rem;
     text-shadow: 2px 2px 2px #CE5937;
+
+    z-index:2;
 }
 
 h1:hover{
@@ -59,6 +61,7 @@ h1:hover{
 }
 
 #muteVideo{
+    z-index:2;
     position: absolute;
     right: 14px;
     bottom: 14px;
