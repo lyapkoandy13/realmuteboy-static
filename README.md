@@ -5,4 +5,4 @@ Realmuteboy landing page
 
 Fully static app
 
-demo on Github pages: https://lyapkoandy13.github.io/realmuteboy-static/
+demo on Github pages: http://realmuteboy.tk/
